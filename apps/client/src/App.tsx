@@ -23,6 +23,7 @@ function App() {
         </a>
       </div>
       <h1>{text}</h1>
+      <h2>Github test</h2>
     </>
   );
 }
